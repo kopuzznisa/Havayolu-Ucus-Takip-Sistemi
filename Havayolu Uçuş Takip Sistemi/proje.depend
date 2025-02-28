@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1685443208 source:c:\users\huawei\onedrive\masaüstü\proje\kalkis_yerine_gore_ucus_listesi.cpp
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+	<iostream>
+	<iomanip>
+
+1685443208 c:\users\huawei\onedrive\masaüstü\proje\kalkis_yerine_gore_ucus_listesi.h
+	<string>
+	"Ucus.h"
+	"MyString.h"
+
+1685443208 c:\users\huawei\onedrive\masaüstü\proje\ucus.h
+	<string>
+
+1685443208 c:\users\huawei\onedrive\masaüstü\proje\mystring.h
+	<iostream>
+
+1685443208 source:c:\users\huawei\onedrive\masaüstü\proje\mystring.cpp
+	<iostream>
+	"MyString.h"
+
+1685443208 source:c:\users\huawei\onedrive\masaüstü\proje\ucus.cpp
+	"Ucus.h"
+	<iostream>
+	<iomanip>
+
+1685443370 source:c:\users\huawei\onedrive\masaüstü\proje\ucus_numarasina_gore_ucus_listesi.cpp
+	"Ucus_Numarasina_Gore_Ucus_LÝstesi.h"
+	<iostream>
+	<iomanip>
+
+1685443344 c:\users\huawei\onedrive\masaüstü\proje\ucus_numarasina_gore_ucus_lÝstesi.h
+	<string>
+	"Ucus.h"
+
+1685443374 source:c:\users\huawei\onedrive\masaüstü\proje\main.cpp
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_LÝstesi.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+	<iostream>
+
